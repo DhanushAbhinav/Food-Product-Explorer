@@ -20,4 +20,4 @@ A web application that allows users to search, filter, and view detailed informa
 
 ## Time Taken To Complete the Assignment
 
-- 2 Hours 15 Minutes
+- 2 Hours
